@@ -10,5 +10,5 @@ The player can:
   and open chests to obtain new items either defence buff or strength buff
   
 The aim of this game is to get to the artifact at the end of the dungeon.
-There are a ramdom amount of rooms the player must go through in order to get to the goal. 
+There are a random amount of rooms the player must go through in order to get to the goal. 
 It is a managable amount that will allow the player to experience every room I have coded.
